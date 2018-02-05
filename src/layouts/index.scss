@@ -1,13 +1,25 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
-    height: 100%;
+  background-color: #fff !important;
+  height: 100%;
 }
 
 body {
-    margin: 0;
+  margin: 0;
+}
+
+.about-container {
+  align-content: center;
+  display: flex;
+  min-height: 90vh;
+  min-width: 50%;
+
+  .about-wrapper {
+    margin: 0 auto;
+  }
 }
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700|Material+Icons');

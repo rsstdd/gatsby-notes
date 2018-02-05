@@ -3,7 +3,7 @@ module.exports = {
   siteTitle: "Ross's Notes", // Site title.
   siteTitleAlt: "Ross' Notes", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "", // Domain of your website without pathPrefix.
+  siteUrl: "https://d2zkjkmvqm13rb.cloudfront.net/", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-material-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "A Collection of Web Dev Notes.", // Website description used for RSS feeds/meta description tag.

@@ -32,11 +32,6 @@ module.exports = {
       label: "Email",
       url: "mailto:rosstod@gmail.com",
       iconClassName: "fa fa-envelope"
-    },
-    {
-      label: "Portfolio",
-      url: "rsstdd.com",
-      iconClassName: "fa fa-website"
     }
   ],
   copyright: "Copyright © 2017. Ross Todd" // Copyright string for the footer of the website and RSS feed.
